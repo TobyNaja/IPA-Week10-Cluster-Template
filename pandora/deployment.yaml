@@ -1,4 +1,4 @@
-# The load generator.
+#REPLACE_WITH_ROSTER_NAME The load generator.
 #
 # ONE LINE IS YOURS TO CHANGE: the team name, marked below.
 #
@@ -60,7 +60,7 @@ spec:
 
             # ---- THE ONE LINE YOU EDIT --------------------------------------
             - "--team"
-            - "REPLACE_WITH_ROSTER_NAME"
+            - "Helios"
             # -----------------------------------------------------------------
 
             # The ingress controller's in-cluster address, asking for the host
